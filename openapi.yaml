@@ -1,0 +1,7 @@
+# openapi.yaml file to compile api-pom project
+openapi: 3.0.3
+info:
+  title: API
+  version: 0.0.0
+paths: {}
+components: {}
